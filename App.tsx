@@ -549,7 +549,7 @@ export default function App() {
          </div>
          <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-gray-800 flex justify-between text-xs text-gray-600">
             <div>© Synthetic Souls</div>
-            <div>Made by Elison Santos</div>
+            <div>Made by Satish Yadav</div>
          </div>
       </footer>
     </div>
