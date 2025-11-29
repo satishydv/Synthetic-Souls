@@ -15,3 +15,5 @@ This repo contains the **Synthetic Souls** creative studio landing page.
 2. (Optional) Create a `.env.local` file for any environment variables you need.
 3. Start the dev server:  
    `npm run dev`
+
+   hey
